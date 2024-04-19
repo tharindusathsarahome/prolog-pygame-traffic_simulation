@@ -24,7 +24,7 @@ This project is a Prolog traffic simulation system implemented using Python Pyga
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/prolog-traffic-simulation.git
+    git clone https://github.com/tharindusathsarahome/prolog-pygame-traffic_simulation.git
     ```
 
 2. Navigate to the project directory:
