@@ -1,6 +1,6 @@
 # Prolog Traffic Simulation System
 
-![Simulation Screenshot](images/simulation_screenshot.png)
+![Simulation Screenshot](https://github.com/tharindusathsarahome/prolog-pygame-traffic_simulation/blob/main/image.png)
 
 ## Overview
 
