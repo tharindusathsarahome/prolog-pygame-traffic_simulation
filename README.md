@@ -1,4 +1,4 @@
-# Prolog Traffic Simulation System
+# Prolog-PyGame Traffic Simulation System
 
 ![Simulation Screenshot](https://github.com/tharindusathsarahome/prolog-pygame-traffic_simulation/blob/main/image.png)
 
